@@ -6,12 +6,12 @@ By Prince Kr Paswan
 ## [Link to the Loan-calulater-App](https://loan-calulater-app.netlify.app/)
 
 
-![Completed Website](./r1.png)
-![](./r2.png)
-![](./r3.png)
-![](./r4.png)
-![](./r5.png)
-![](./r6.png)
+![Completed Website](./r1ng)
+![](./r2png)
+![](./r3png)
+![](./r4png)
+![](./r5png)
+![](./r6png)
 
 
 
