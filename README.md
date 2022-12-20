@@ -3,7 +3,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Loan-calulater-App](https://menu-app-p.netlify.app/)
+## [Link to the Menu-App](https://menu-app-p.netlify.app/)
 
 
 ![Completed Website](./r1ng)
